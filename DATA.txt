@@ -1,0 +1,60 @@
+CAN bus started successfully!
+Received Data: 81 Data: 0 Data: 0 Data: 0 Data: AC Data: 2F Data: 0 Data: 0 packet with id 0x316 and length 8
+
+
+Received Data: A Data: 6D Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: A Data: 6C Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 80 Data: 6C Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: A Data: 6C Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 4F Data: 6C Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: D6 Data: 6E Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 4F Data: 6F Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: D6 Data: 70 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: A Data: 73 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 80 Data: 71 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: A Data: 70 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 4F Data: 72 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: D6 Data: 72 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 4F Data: 72 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 80 Data: 72 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: A Data: 71 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 80 Data: 71 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: D6 Data: 71 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+
+
+Received Data: 4F Data: 72 Data: 7E Data: 6 Data: 0 Data: F4 Data: FF Data: 10 packet with id 0x329 and length 8
+

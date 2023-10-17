@@ -1,0 +1,32 @@
+CAN Receiver
+
+CAN bus with the column started successfully!
+
+Received Data: FF Data: 7F Data: FF Data: 6 Data: 86 packet with id 0x2B0 and length 5
+
+
+
+
+
+Received Data: FF Data: 7F Data: FF Data: 6 Data: 97 packet with id 0x2B0 and length 5
+
+
+
+
+
+Received Data: FF Data: 7F Data: FF Data: 6 Data: E0 packet with id 0x2B0 and length 5
+
+
+
+
+
+Received Data: FF Data: 7F Data: FF Data: 6 Data: 4A packet with id 0x2B0 and length 5
+
+
+
+
+
+Received Data: FF Data: 7F Data: FF Data: 6 Data: A4 packet with id 0x2B0 and length 5
+
+
+
