@@ -18,7 +18,7 @@ The repository primarily contains the following components:
 
 - **Ejecutable:** This Python code acts as an executable program, invoking or calling the Visualizador program, and displaying the collected data in a table format.
 
-- **DATOS:** This folder includes an example of a .txt file, which shows how the data collected by the embedded system is formatted. However, please note that the final presentation of the data in the table may differ when viewed in the executable.
+- **DATOS:** This archive includes an example of a .txt file, which shows how the data collected by the embedded system is formatted. However, please note that the final presentation of the data in the table may differ when viewed in the executable.
 
 ## Contact Information
 
